@@ -8,11 +8,11 @@ public class Constant  implements Serializable{
 
     public static final boolean show_admob_banner=true ; // show AdMob Smart banner
     public static final boolean show_admob_interstitial = true; // show AdMob Interstitial
-    public static final String adMob_key_banner = "ca-app-pub-3940256099942544/6300978111";
-    public static final String adMob_key_interstitial = "ca-app-pub-3940256099942544/1033173712";
+    public static final String adMob_key_banner = "ca-app-pub-4905035688129642/8557013844";
+    public static final String adMob_key_interstitial = "ca-app-pub-4905035688129642/2474821223";
 
     public static Boolean show_banner_ad = true; // show reward video
-    public static String rewarded_ad_id="ca-app-pub-3940256099942544/5224354917";
+    public static String rewarded_ad_id="ca-app-pub-4905035688129642/1416890428";
     public static final int reward_time_inseconds=10;//set seconds to win after watching the reward video
 
 

@@ -20,7 +20,7 @@ public class PrivacyActivity extends Activity {
         WebView web_view = findViewById(R.id.web_view);
 
 
-        web_view.loadUrl("file:///privacy_policy.html");
+        web_view.loadUrl("https://yaydevelopers.blogspot.com/2022/01/privacy-policy_30.html");
 
     }//oncreate
 

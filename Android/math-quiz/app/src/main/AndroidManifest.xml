@@ -14,7 +14,7 @@
         android:theme="@style/Theme.MathQuiz">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713" />
+            android:value="ca-app-pub-4905035688129642~4725580040" />
 
         <activity android:name="com.yaydev.mathquiz.MainActivity"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
