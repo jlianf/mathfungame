@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445255257630",
+    "project_id": "math-fun-game-1040e",
+    "storage_bucket": "math-fun-game-1040e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445255257630:android:3348f948a62054bd3a680f",
+        "android_client_info": {
+          "package_name": "com.yaydev.mathquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445255257630-i28snpkc1mt8co8ij4ru76d3o6beiagk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1L4TTIpEPkGL1fpnwn3viI2KKn1WlY68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445255257630-i28snpkc1mt8co8ij4ru76d3o6beiagk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
